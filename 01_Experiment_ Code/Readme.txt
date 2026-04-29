@@ -1,0 +1,1 @@
+This script can run 100 Monte Carlo simulation experiments on one group, with each experimental variable including 3 processing methods, 10 uncertainty data ratios, and 6 processing units, and summarizes the results in a table.
